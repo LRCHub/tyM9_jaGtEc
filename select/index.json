@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "base_track": "FIRE GROUND",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2026-03-25T11:27:39.284754Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FIRE GROUND",
+      "artist": "Official HIGE DANdism",
+      "has_synced": true,
+      "path": "select/01_FIRE_GROUND_Official_HIGE_DANdism.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FIRE GROUND",
+      "artist": "Official HIGE DANdism",
+      "has_synced": true,
+      "path": "select/02_FIRE_GROUND_Official_HIGE_DANdism.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FIRE GROUND",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/03_FIRE_GROUND_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "FIRE GROUND",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/04_FIRE_GROUND_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fire Ground",
+      "artist": "NateWantsToBattle",
+      "has_synced": true,
+      "path": "select/05_Fire_Ground_NateWantsToBattle.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fire Ground",
+      "artist": "OFFICIAL HIGE DANDISM",
+      "has_synced": true,
+      "path": "select/06_Fire_Ground_OFFICIAL_HIGE_DANDISM.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "FIRE GROUND",
+      "artist": "OFFICIAL HIGE DANDISM",
+      "has_synced": true,
+      "path": "select/07_FIRE_GROUND_OFFICIAL_HIGE_DANDISM.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "FIRE GROUND",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/08_FIRE_GROUND_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "FIRE GROUND(Instrumental)",
+      "artist": "OfficialHigeDandism",
+      "has_synced": true,
+      "path": "select/09_FIRE_GROUND(Instrumental)_OfficialHigeDandism.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fire Ground (Online Live 2020 - Arena Travelers -)",
+      "artist": "OFFICIAL HIGE DANDISM",
+      "has_synced": true,
+      "path": "select/10_Fire_Ground_(Online_Live_2020_-_Arena_Travelers_-)_OFFICIAL_HIGE_DANDISM.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fire Ground (Live)",
+      "artist": "OFFICIAL HIGE DANDISM",
+      "has_synced": true,
+      "path": "select/11_Fire_Ground_(Live)_OFFICIAL_HIGE_DANDISM.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "FIRE GROUND (ONLINE LIVE 2020 - Arena Travelers -) (Live)",
+      "artist": "OFFICIAL HIGE DANDISM",
+      "has_synced": true,
+      "path": "select/12_FIRE_GROUND_(ONLINE_LIVE_2020_-_Arena_Travelers_-)_(Live)_OFFICIAL_HIGE_DANDISM.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "FIRE GROUND - LIVE",
+      "artist": "OFFICIAL HIGE DANDISM",
+      "has_synced": true,
+      "path": "select/13_FIRE_GROUND_-_LIVE_OFFICIAL_HIGE_DANDISM.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "FIRE GROUND (ONLINE LIVE 2020 - Arena Travelers -) [Live]",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/14_FIRE_GROUND_(ONLINE_LIVE_2020_-_Arena_Travelers_-)_[Live]_Official髭男dism.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FIRE GROUND",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_FIRE_GROUND_Official髭男dism.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "FIRE GROUND",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/localdb_01_FIRE_GROUND_Official髭男dism.txt",
+      "repo_name": "sem3UU-EQJs"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "FIRE GROUND",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/localdb_02_FIRE_GROUND_Official髭男dism.txt",
+      "repo_name": "B_MtNFbmycI"
+    }
+  ]
+}
